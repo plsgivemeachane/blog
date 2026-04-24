@@ -16,7 +16,7 @@
     "@astrojs/sitemap": "^3.4.1",
     "@tailwindcss/vite": "^4.1.11",
     "@tanstack/react-virtual": "^3.13.12",
-    "astro": "^5.11.0",
+    "astro": "^6.1.9",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.525.0",
