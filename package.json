@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@tinacms/cli": "^1.10.0",
-    "@types/node": "^22.16.0",
+    "@types/node": "^25.6.0",
     "prettier": "^3.6.2",
     "tw-animate-css": "^1.3.5"
   }
